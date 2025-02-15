@@ -1,1 +1,2 @@
 # webpageHTML
+What I have learned from this assignment is how the website gets together with all the functions. The style.css is linked with the script.js. I have learned that in the script.js file there is function where basically it allows you to make changes to the website and show the text you want it to show you if you press the button. addEventListener adds to the function by doing the command it has been told to do. Without that it would not be possible. 
